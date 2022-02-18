@@ -3,9 +3,11 @@
 -
   type: github
   icon: 'fab fa-github'
+  url: 'https://github.com/navcul3108'
 -
   type: twitter
-  icon: 'fab fa-twitter'
+  icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/luc-giang-van-22502b1a2/'
 -
   type: email
   icon: 'fas fa-envelope'
